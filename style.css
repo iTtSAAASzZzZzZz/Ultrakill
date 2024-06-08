@@ -1,1 +1,25 @@
 
+body{
+    background-image: url(https://booru.newblood.games/_images/39dece0c2193af03330c813a9833b494/1176%20-%20character%3Av1_%28ultrakill%29%20fire%20into%20ost%20prelude%20series%3Aultrakill%20the.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+nav{
+    font-size: 34px;
+    text-decoration: none;
+    color: #000;
+    background-color: #E85D04;
+    font-family: 'Russo One';
+    
+}
+.head1{
+    font-family: 'Alfa Slab One';
+    text-align: center;
+    font-size: 47px;
+    color:#FFFFFF
+}
+.a1{
+    color:#000
+}
