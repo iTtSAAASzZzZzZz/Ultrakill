@@ -122,11 +122,25 @@ nav{
     color: white;
 }
 
-
+.lvl1{
+    margin-top: 10px;
+}
+    
+.lvl2{
+    margin-top: 20px;
+}
+    
+.lvl3{
+    margin-top: 110px;
+}
     
 
+.img2 img{
+    height: 240px;
+    width: 320px;
+}
 
-.imgtwo img{
+.img3 img{
     height: 240px;
     width: 320px;
 }
